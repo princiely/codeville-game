@@ -20,9 +20,7 @@ function checkIfGameIsWon(first,second,third){
 
         return
     } else {
-        button.textContent="checkDraw";
-        display.textContent="it is a draw"
-        checkStatus();
+       
     }
 
 }
